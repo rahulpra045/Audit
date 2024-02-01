@@ -6,9 +6,11 @@ This audit report highlights the overall security of the Smart Contract. With th
 ## Auditing approach and Methodologies applied
 
 In this audit, I consider the following crucial features of the code.
+
 ● Whether the implementation of protocol standards.
 ● Whether the code is secure.
 ● Whether the code meets the best coding practices.
+
 ## The audit has been performed according to the following procedure:
 
 * Manual audit
