@@ -64,4 +64,4 @@ These are minor details and warnings that can remain unfixed but would be better
 * One Medium Severity Issue found.
   
 ## Low Severity Issues :
-*There were 3 low severity issues found in protocol and in contract.
+* There were 3 low severity issues found in protocol and in contract.
